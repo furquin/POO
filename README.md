@@ -26,7 +26,7 @@
 ```bash
     # Clonar repositório
 
-    $ git clone https://github.com/furquin/POO.git
+    $ git clone git@github.com:furquin/POO.git
 
     # Entrar no diretório
 
